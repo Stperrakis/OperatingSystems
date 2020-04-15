@@ -1,2 +1,2 @@
 # OperatingSystems
-Scheduling algorithms(Round Robin , Shortest Job First(preemptive - non preemptive))
+Scheduling algorithms(Round Robin, Shortest Job First(preemptive - non preemptive))
